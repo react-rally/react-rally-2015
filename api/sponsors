@@ -1,0 +1,79 @@
+{
+  "premier": [
+    {
+      "name": "Rangle.io",
+      "url": "http://rangle.io/",
+      "image": "assets/dist/img/sponsors/rangle.jpg",
+      "style": {
+        "border": "1px solid rgb(198, 192, 202)"
+      }
+    }
+  ],
+  "platinum": [
+    {
+      "name": "MX",
+      "url": "http://mx.com",
+      "image": "assets/dist/img/sponsors/mx.png"
+    }
+  ],
+  "gold": [
+    {
+      "name": "HireVue",
+      "url": "http://hirevue.com/",
+      "image": "assets/dist/img/sponsors/hirevue.png"
+    },
+    {
+      "raygun": "Raygun.io",
+      "url": "https://raygun.io/",
+      "image": "assets/dist/img/sponsors/raygun.jpg",
+      "style": {
+        "border": "1px solid rgb(198, 192, 202)"
+      }
+    },
+    {
+      "name": "Pluralsight",
+      "url": "http://www.pluralsight.com/",
+      "image": "assets/dist/img/sponsors/pluralsight.jpg",
+      "style": {
+        "border": "1px solid rgb(198, 192, 202)"
+      }
+    }
+  ],
+  "silver": [
+    {
+      "name": "Code School",
+      "url": "https://www.codeschool.com/reactrally2015",
+      "image": "assets/dist/img/sponsors/codeschool.jpg",
+      "style": {
+        "border": "1px solid rgb(198, 192, 202)"
+      }
+    },
+    {
+      "name": "Canopy",
+      "url": "https://www.canopytax.com/",
+      "image": "assets/dist/img/sponsors/canopy.jpg"
+    }
+  ],
+  "supporters": [
+    {
+      "name": "Facebook",
+      "url": "https://facebook.com/careers/",
+      "image": "assets/dist/img/sponsors/facebook.png"
+    },
+    {
+      "name": "Instructure",
+      "url": "http://instructure.com/careers/",
+      "image": "assets/dist/img/sponsors/instructure.png"
+    },
+    {
+      "name": "KualiCo",
+      "url": "https://kuali.co",
+      "image": "assets/dist/img/sponsors/kualicologo-small.png"
+    },
+    {
+      "name": "Red Sky",
+      "url": "http://redskysol.com/",
+      "image": "assets/dist/img/sponsors/redsky.png"
+    }
+  ]
+}
